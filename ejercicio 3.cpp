@@ -46,3 +46,4 @@ int main() {
     mostrarVector(vectorC, N);
 
     return 0;
+//hola si?
